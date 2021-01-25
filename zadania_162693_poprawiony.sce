@@ -30,5 +30,5 @@ title('wykres dwoch funkcji')
 clear
 clc
 clf
-pie=([42332,23243,33244],["Strzelanki","Arcade","Wyscigi"])
+pie([42332,23243,33244],["Strzelanki","Arcade","Wyscigi"])
 title('Wykres kolowy przychodu z garunkow gier')
